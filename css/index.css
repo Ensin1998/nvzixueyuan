@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: green;
+    font-size: 50px;
+}
+div{
+    color: crimson;
+    font-size: 50px;
+}
